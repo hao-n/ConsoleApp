@@ -1,0 +1,6 @@
+---
+library: false
+warnOnImplicitThis: false
+name: sample-scope/sample-pack
+version: 0.0.1
+dependency: [csharp]
